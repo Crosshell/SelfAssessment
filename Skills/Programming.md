@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
+  - value: 👂 heard
   - identifier
-  - variable
-  - constant
+  - variable: 👂 heard
+  - constant: 👂 heard
   - scalar
   - literal
-  - expression
+  - expression: 👂 heard
   - heap
-  - function
+  - function: 👂 heard
   - procedure
   - method
   - class
   - prototype
   - event
   - type
-  - primitive types
+  - primitive types: 👂 heard
   - reference types
   - flag
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops: 👂 heard
   - assignment
   - regular expression
   - interface
@@ -31,8 +31,8 @@
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
+  - argument: 👂 heard
+  - parameter: 👂 heard
   - pure function
   - lambda expression
   - side effects
@@ -53,7 +53,7 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array: 👂 heard
   - structure
   - record
   - enum
@@ -84,7 +84,7 @@
   - polyfill
   - debugger
   - garbage collection
-  - refactoring
+  - refactoring: 👂 heard
   - code review
   - antipatterns
   - paradigm
@@ -103,4 +103,4 @@
   - return early
   - unittest
   - git
-  - github
+  - github: 👂 heard
