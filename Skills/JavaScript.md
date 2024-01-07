@@ -3,7 +3,7 @@
 - Language
   - Object
   - this
-  - arrow function
+  - arrow function: 👂 heard
   - async function
   - call
   - bind
@@ -11,7 +11,7 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 👂 heard
   - destructuring
   - generator
   - iterator
@@ -41,15 +41,15 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 👂 heard
+  - for: 🖐️ used
   - for..in
   - for..of
   - for await
   - throw
-  - break
+  - break: 🖐️ used
   - continue
   - import
   - export
@@ -60,20 +60,20 @@
   - new Error
   - with
 - Functions
-  - function declaration
+  - function declaration: 🖐️ used
   - function expression
-  - return
+  - return: 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 👂 heard
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined: 👂 heard
+  - null: 👂 heard
   - Proxy
   - weak collections
   - timers
