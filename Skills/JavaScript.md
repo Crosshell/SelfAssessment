@@ -1,20 +1,20 @@
 ## JavaScript
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
-  - arrow function: 🖐️ used
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - arrow function: 🙋 explained
   - async function: 🖐️ used
   - call: 🖐️ used
-  - bind
+  - bind: 🎓 known
   - apply
   - instanceof: 🖐️ used
-  - ...spread: 🖐️ used
-  - ...rest: 🖐️ used
-  - typeof: 🖐️ used
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
   - destructuring: 🖐️ used
   - generator: 👂 heard
-  - iterator: 👂 heard
+  - iterator: 🙋 explained
   - async generator: 👂 heard
   - async iterator: 👂 heard
   - chaining
@@ -23,7 +23,7 @@
   - global: 🎓 known
   - globalThis: 🎓 known
   - window
-  - getters and setters
+  - getters and setters: 🖐️ used
   - __proto__
   - prototype: 👂 heard
   - equality operators: 🖐️ used
@@ -34,46 +34,46 @@
   - yield
   - await: 🖐️ used
   - template literal: 🖐️ used
-  - strict mode: 👂 heard
-  - delete
+  - strict mode: 🖐️ used
+  - delete: 🎓 known
   - in: 🖐️ used
   - super: 👂 heard
   - Symbol: 🖐️ used
   - Reflect
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - for..of: 🖐️ used
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
   - for await: 🖐️ used
   - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
   - label: 🎓 known
   - try..catch: 🖐️ used
-  - switch: 🖐️ used
+  - switch: 🙋 explained
   - class: 🖐️ used
   - new Error: 🖐️ used
   - with: 🎓 known
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - functional object: 🖐️ used
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🙋 explained
 - Data structures
-  - Array: 🖐️ used
+  - Array: 🙋 explained
   - mixin: 🎓 known
   - extend: 🎓 known
-  - typed arrays
-  - Map: 🎓 known
-  - Set: 🎓 known
-  - undefined: 🖐️ used
-  - null: 🖐️ used
+  - typed arrays: 👂 heard
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🙋 explained
+  - null: 🙋 explained
   - Proxy: 👂 heard
   - weak collections: 👂 heard
   - timers: 🖐️ used
@@ -82,8 +82,8 @@
   - Date: 🖐️ used
   - BigInt: 🖐️ used
 - Infrastructure
-  - V8: 👂 heard
-  - Node.js: 👂 heard
+  - V8: 🎓 known
+  - Node.js: 🎓 known
   - npm: 🖐️ used
   - prettier
   - MDN
