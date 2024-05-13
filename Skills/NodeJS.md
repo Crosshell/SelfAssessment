@@ -86,15 +86,15 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 🎓	known
+  - TCP/SSL: 🖐️	used
+  - UDP: 🖐️	used
   - TLS
-  - Websocket
+  - Websocket: 🖐️	used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🎓	known
   - RPC
   - Routing
   - DoS
@@ -102,7 +102,7 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 🎓	known
   - Fetch API
   - IncomingMessage
   - SQL injection
