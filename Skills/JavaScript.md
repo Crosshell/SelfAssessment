@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function: 👂 heard
-  - async function
-  - call
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
+  - call: 🖐️ used
   - bind
   - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof: 👂 heard
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
+  - instanceof: 🖐️ used
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
+  - typeof: 🖐️ used
+  - destructuring: 🖐️ used
+  - generator: 👂 heard
+  - iterator: 👂 heard
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
   - chaining
   - optional chaining
   - IIFE
-  - global
-  - globalThis
+  - global: 🎓 known
+  - globalThis: 🎓 known
   - window
   - getters and setters
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - prototype: 👂 heard
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
   - yield
-  - await
-  - template literal
-  - strict mode
+  - await: 🖐️ used
+  - template literal: 🖐️ used
+  - strict mode: 👂 heard
   - delete
-  - in
-  - super
-  - Symbol
+  - in: 🖐️ used
+  - super: 👂 heard
+  - Symbol: 🖐️ used
   - Reflect
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
-  - do..while: 👂 heard
+  - do..while: 🖐️ used
   - for: 🖐️ used
-  - for..in
-  - for..of
-  - for await
-  - throw
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
+  - for await: 🖐️ used
+  - throw: 🖐️ used
   - break: 🖐️ used
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label: 🎓 known
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 🖐️ used
+  - with: 🎓 known
 - Functions
   - function declaration: 🖐️ used
-  - function expression
+  - function expression: 🖐️ used
   - return: 🖐️ used
-  - default parameters
-  - functional object
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
 - Data structures
-  - Array: 👂 heard
-  - mixin
-  - extend
+  - Array: 🖐️ used
+  - mixin: 🎓 known
+  - extend: 🎓 known
   - typed arrays
-  - Map
-  - Set
-  - undefined: 👂 heard
-  - null: 👂 heard
-  - Proxy
-  - weak collections
-  - timers
+  - Map: 🎓 known
+  - Set: 🎓 known
+  - undefined: 🖐️ used
+  - null: 🖐️ used
+  - Proxy: 👂 heard
+  - weak collections: 👂 heard
+  - timers: 🖐️ used
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 🖐️ used
   - prettier
   - MDN
