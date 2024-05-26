@@ -7,7 +7,7 @@
   - Non-structured programming: 🎓 known
   - Functional programming: 🎓 known
   - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 🖐️	used
+  - Object-oriented programming: 🎓 known
   - Object-based programming: 🎓 known
   - Generic programming: 👂 heard
   - Concurrent computing
