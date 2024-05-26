@@ -86,11 +86,11 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S): 🎓	known
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 🖐️	used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling

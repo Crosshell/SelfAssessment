@@ -19,34 +19,34 @@
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
   - flag: 🖐️ used
-  - lexical scope: 🖐️ used
+  - lexical scope: 🎓 known
   - code block: 🖐️ used
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
-  - interface: 👂 heard
-  - contract: 🖐️ used
-  - module
+  - interface: 🖐️ used
+  - contract: 👂 heard
+  - module: 🖐️ used
   - call stack: 🎓 known
 - Functions
-  - signature
+  - signature: 🖐️ used
   - argument: 🖐️ used
   - parameter: 🖐️ used
-  - pure function 🖐️ used
+  - pure function: 🖐️ used
   - lambda expression: 🖐️ used
-  - side effects: 🎓 known
-  - closure: 🖐️ used
-  - partial application
+  - side effects: 🖐️ used
+  - closure: 🎓 known
+  - partial application: 👂 heard
   - curry
   - higher order: 🎓 known
   - recursion: 🖐️ used
   - callback: 🖐️ used
-  - listener
+  - listener: 🖐️ used
   - compose
   - pipe
   - memoize: 👂 heard
-  - wrapper: 👂 heard
+  - wrapper: 🖐️ used
   - functor
   - monad
   - monoid
@@ -57,48 +57,48 @@
   - structure: 🖐️ used
   - record
   - enum: 👂 heard
-  - instance: 🎓 known
+  - instance: 🖐️ used
   - object: 🖐️ used
   - class: 🖐️ used
   - collection: 🖐️ used
-  - set: 🖐️ used
-  - hash table: 👂 heard
-  - linked list: 👂 heard
-  - doubly list: 👂 heard
-  - unrolled list
-  - circular list
-  - queue: 👂 heard
-  - stack 👂 heard
-  - deque
-  - tree: 👂 heard
-  - graph: 👂 heard
-  - iterator: 👂 heard
+  - set: 🎓 known
+  - hash table: 🎓 known
+  - linked list: 🖐️ used
+  - doubly list: 🖐️ used
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
+  - queue: 🖐️ used
+  - stack: 🎓 known
+  - deque: 🎓 known
+  - tree: 🖐️ used
+  - graph: 🖐️ used
+  - iterator: 🖐️ used
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing: 🖐️ used
 - Process & style
-  - compiler: 👂 heard
+  - compiler: 🎓 known
   - transpiler
   - linter
   - polyfill
   - debugger: 🎓 known
   - garbage collection
-  - refactoring: 🎓 known
-  - code review: 👂 heard
-  - antipatterns
-  - paradigm: 👂 heard
-  - algorithm: 👂 heard
-  - magic numbers: 👂 heard
-  - hardcode: 👂 heard
+  - refactoring: 🖐️ used
+  - code review: 🎓 known
+  - antipatterns: 🖐️ used
+  - paradigm: 🖐️ used
+  - algorithm: 🖐️ used
+  - magic numbers: 🖐️ used
+  - hardcode: 🖐️ used
   - complexity
-  - decomposition
+  - decomposition: 🖐️ used
   - spaghetti: 👂 heard
-  - silver bullet
+  - silver bullet: 👂 heard
   - not invented here
-  - dead code: 👂 heard
-  - unreachable code
-  - duplicate code
+  - dead code: 🖐️ used
+  - unreachable code: 👂 heard
+  - duplicate code: 🖐️ used
   - exception: 🖐️ used
   - return early: 🖐️ used
   - unittest

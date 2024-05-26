@@ -4,9 +4,9 @@
   - Object: 🖐️ used
   - this: 🖐️ used
   - arrow function: 🖐️ used
-  - async function: 🖐️ used
-  - call: 🖐️ used
-  - bind
+  - async function: 🎓 known
+  - call: 👂 heard
+  - bind: 🎓 known
   - apply
   - instanceof: 🖐️ used
   - ...spread: 🖐️ used
@@ -14,7 +14,7 @@
   - typeof: 🖐️ used
   - destructuring: 🖐️ used
   - generator: 👂 heard
-  - iterator: 👂 heard
+  - iterator: 🎓 known
   - async generator: 👂 heard
   - async iterator: 👂 heard
   - chaining
@@ -23,19 +23,19 @@
   - global: 🎓 known
   - globalThis: 🎓 known
   - window
-  - getters and setters
+  - getters and setters: 🖐️ used
   - __proto__
   - prototype: 👂 heard
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
-  - bitwise operators: 🖐️ used
+  - bitwise operators: 🎓 known
   - ternary operator: 🖐️ used
-  - void: 🖐️ used
+  - void: 🎓 known
   - yield
-  - await: 🖐️ used
+  - await: 🎓 known
   - template literal: 🖐️ used
-  - strict mode: 👂 heard
-  - delete
+  - strict mode: 🖐️ used
+  - delete: 🖐️ used
   - in: 🖐️ used
   - super: 👂 heard
   - Symbol: 🖐️ used
@@ -47,7 +47,7 @@
   - for: 🖐️ used
   - for..in: 🖐️ used
   - for..of: 🖐️ used
-  - for await: 🖐️ used
+  - for await: 👂 heard
   - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
@@ -69,21 +69,21 @@
   - Array: 🖐️ used
   - mixin: 🎓 known
   - extend: 🎓 known
-  - typed arrays
-  - Map: 🎓 known
-  - Set: 🎓 known
+  - typed arrays: 👂 heard
+  - Map: 🖐️ used
+  - Set: 🖐️ used
   - undefined: 🖐️ used
   - null: 🖐️ used
   - Proxy: 👂 heard
   - weak collections: 👂 heard
-  - timers: 🖐️ used
+  - timers: 🎓 known
   - EventEmitter
   - RegExp
-  - Date: 🖐️ used
-  - BigInt: 🖐️ used
+  - Date: 🎓 known
+  - BigInt: 🎓 known
 - Infrastructure
-  - V8: 👂 heard
-  - Node.js: 👂 heard
+  - V8: 🎓 known
+  - Node.js: 🎓 known
   - npm: 🖐️ used
   - prettier
   - MDN
